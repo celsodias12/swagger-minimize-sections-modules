@@ -27,6 +27,12 @@
   </p>
 </p>
 
+<br />
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<br />
+
 ## Roadmap
 
 See the [open issues](https://github.com/celsodias12/swagger-minimize-sections-modules/issues) for a list of proposed features (and known issues).
